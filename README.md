@@ -1,14 +1,19 @@
-### Hi there! I am Mohammed Sadiq 👋
+Senior Frontend Engineer
 
-<!---- 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning backend development 
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I write puns
-<!--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
+Building scalable frontend systems with React and TypeScript.
 
+Currently interested in
 
+• Frontend Architecture
+• Rendering Performance
+• Browser Internals
+• Web Performance
+• Developer Experience
+• System Design
 
+Recent Work
+
+• Modernized a legacy production application
+• Built a SaaS platform from scratch
+• Reduced rendering from 60s → 1–2s
+• Migrated 450+ files to TypeScript
