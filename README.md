@@ -1,4 +1,4 @@
-## 🚀 Senior Frontend Engineer
+## 🚀 Senior Software Engineer
 
 Building scalable frontend systems with **React** and **TypeScript**.
 
